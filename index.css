@@ -1,0 +1,49 @@
+.png{
+
+position: absolute;
+
+transform: translate(50%,50%);
+animation: nithin 2s infinite linear;
+
+
+
+top: 225px;
+left: 45px;
+
+
+}
+@keyframes nithin {
+
+   0% {transform: translate(50%,50%)rotate(0deg);}
+
+
+
+    100%{transform: translate(50%,50%)rotate(360deg);}
+    
+}
+
+.png1{
+
+    position: absolute;
+    
+    transform: translate(50%,50%);
+    animation: nithin 2s infinite linear;
+    
+
+    align-items: center;
+    top: 225px;
+    right: 1032px;
+    
+    
+    
+    }
+    @keyframes nithin {
+    
+       0% {transform: translate(50%,50%)rotate(0deg);}
+    
+    
+    
+        100%{transform: translate(50%,50%)rotate(360deg);}
+        
+    }
+   
